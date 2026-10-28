@@ -36,7 +36,7 @@ Atualmente estou focado em construir uma base sólida em desenvolvimento de soft
 
 ## 📫 Como me encontrar
 
-!-- [![LinkedIn] (www.linkedin.com/in/wandame-aguiar-baa169277) -->
+!-- [![LinkedIn](www.linkedin.com/in/wandame-aguiar-baa169277) -->
 !-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandame2345@gmail.com) -->
 
 
